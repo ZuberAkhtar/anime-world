@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/anime-world/static/css/main.02d56b56.chunk.css",
+    "main.js": "/anime-world/static/js/main.719d770b.chunk.js",
+    "main.js.map": "/anime-world/static/js/main.719d770b.chunk.js.map",
+    "runtime-main.js": "/anime-world/static/js/runtime-main.9a0eaf15.js",
+    "runtime-main.js.map": "/anime-world/static/js/runtime-main.9a0eaf15.js.map",
+    "static/js/2.8d445ee0.chunk.js": "/anime-world/static/js/2.8d445ee0.chunk.js",
+    "static/js/2.8d445ee0.chunk.js.map": "/anime-world/static/js/2.8d445ee0.chunk.js.map",
+    "index.html": "/anime-world/index.html",
+    "precache-manifest.2d6c2d1bc8e3c75f4296c171e4aafab7.js": "/anime-world/precache-manifest.2d6c2d1bc8e3c75f4296c171e4aafab7.js",
+    "service-worker.js": "/anime-world/service-worker.js",
+    "static/css/main.02d56b56.chunk.css.map": "/anime-world/static/css/main.02d56b56.chunk.css.map",
+    "static/js/2.8d445ee0.chunk.js.LICENSE.txt": "/anime-world/static/js/2.8d445ee0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a0eaf15.js",
+    "static/js/2.8d445ee0.chunk.js",
+    "static/css/main.02d56b56.chunk.css",
+    "static/js/main.719d770b.chunk.js"
+  ]
+}
