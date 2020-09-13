@@ -1,0 +1,14 @@
+.search {
+    -webkit-appearance: none;
+    border-radius: 0.5rem;
+    border: none;
+    outline: none;
+    padding: 10px;
+    min-width: 150px;
+    width: 25%;
+    max-width: 350px;
+    line-height: 30px;
+    margin-bottom: 30px;
+    font-family: "sans-serif";
+  }
+  
